@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_mc">MC</string>
+    <string name="button_mr">MR</string>
+    <string name="button_ms">MS</string>
+    <string name="button_mplus">M+</string>
+    <string name="button_mminus">M-</string>
+    <string name="button_back">←</string>
+    <string name="button_ce">CE</string>
+    <string name="button_plus_minus">±</string>
+    <string name="button_7">7</string>
+    <string name="button_8">8</string>
+    <string name="button_9">9</string>
+    <string name="button_division">/</string>
+    <string name="button_percent">%</string>
+    <string name="button_4">4</string>
+    <string name="button_5">5</string>
+    <string name="button_6">6</string>
+    <string name="button_multiplication">*</string>
+    <string name="button_one_divided_by_x">1/x</string>
+    <string name="button_1">1</string>
+    <string name="button_2">2</string>
+    <string name="button_0">0</string>
+    <string name="button_dot">.</string>
+    <string name="button_3">3</string>
+    <string name="button_square_root">√</string>
+    <string name="button_sum">+</string>
+    <string name="button_subtraction">-</string>
+    <string name="button_equals">=</string>
+</resources>
